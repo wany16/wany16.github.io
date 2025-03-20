@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "万颖"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Researcher, Master's Supervisor"
+  bio              : "Assoc. Res. & M.S. Supervisor"
   location         : "SEU Jiulonghu Campus"
   employer         : "Southeast University"
   uri              : # URL
@@ -35,7 +35,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-2093-7023"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
