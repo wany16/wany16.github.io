@@ -40,7 +40,8 @@ author:
   pubmed           : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-  scopus           : SDN, DCN, NetMeas NetSec, HW AI Accel.
+  # scopus           : SDN, DCN, NetMeas NetSec, HW AI Accel.
+  scopus           : #.
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
