@@ -15,38 +15,47 @@ Now he is an associate researcher in School of Cyber Science and Engineering, So
 
 Research Interests
 ======
+<small>
 1. Software Defined Networking (SDN)
 1. Programmable Dataplane
 1. Data Center Network (DCN)
 1. In-band Network Telemetry (INT)
 1. Hardware AI Acceleration
 1. Routing, load balancing, and congestion control  
+</small>
 
 Recruitment
 ======
+<small>
 I am currently looking for motivated students to join my research group.
 Below are the details:
+</small>
 
 ### Target Candidates
+<small>
 1. Undergraduate interns (recruiting all year round)
 1. 1 Master's student (enrollment in September 2025)
+</small>
 
 ### Basic Requirements
+<small>
 1. Passion for research and a diligent work ethic
 2. Strong self-motivation
 3. Good English reading and writing skills
 4. Solid academic foundation (Mathematics, Computer Science)
+</small>
 
 ### Preferred Qualifications
+<small>
 1. Awards in Informatics/Mathematics competitions
 1. Experience in hardware development (FPGA, programmable switches)
 1. Participation in high-quality research papers (both submitted and published)
 1. Top 20% in class ranking
+</small>
 
 Interested students are welcome to send the following materials to wy25@seu.edu.cn:
+<small>
 1. Personal resume
 1. Academic transcript
-1. Award certificates (if any)
-
-
-**Markdown generator**
+1. Award certificates
+</small>
