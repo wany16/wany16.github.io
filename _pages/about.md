@@ -27,23 +27,23 @@ Recruitment
 I am currently looking for motivated students to join my research group.
 Below are the details:
 
-### Target Candidates
+#### Target Candidates
 1. Undergraduate interns (recruiting all year round)
 1. 1 Master's student (enrollment in September 2025)
 
-### Basic Requirements
+#### Basic Requirements
 1. Passion for research and a diligent work ethic
 2. Strong self-motivation
 3. Good English reading and writing skills
 4. Solid academic foundation (Mathematics, Computer Science)
 
-### Preferred Qualifications
+#### Preferred Qualifications
 1. Awards in Informatics/Mathematics competitions
 1. Experience in hardware development (FPGA, programmable switches)
 1. Participation in high-quality research papers (both submitted and published)
 1. Top 20% in class ranking
 
-### Interested students are welcome to send the following materials to wy25@seu.edu.cn:
+Interested students are welcome to send the following materials to wy25@seu.edu.cn:
 1. Personal resume
 1. Academic transcript
 1. Award certificates (if any)
