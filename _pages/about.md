@@ -15,18 +15,21 @@ Now he is an associate researcher in School of Cyber Science and Engineering, So
 
 Research Interests
 ======
-Software Defined Networking (SDN), Programmable Dataplane, Data Center Network (DCN),
-In-band Network Telemetry (INT), and Hardware AI  
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+1. Software Defined Networking (SDN)
+1. Programmable Dataplane
+1. Data Center Network (DCN)
+1. In-band Network Telemetry (INT)
+1. Hardware AI Acceleration
+1. Routing, load balancing, and congestion control  
 
-Getting started
+Teaching
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. TBD
+
+Recruitment
+======
+I am currently looking for motivated students to join my research group. I have several openings for Master's students. If you are interested in pursuing research in the areas of Software Defined Networking, Data Center Networks, or Cyber Security, please contact me at wy25@seu.edu.cn with your CV and a brief statement of your research interests.
+
 
 Site-wide configuration
 ------
