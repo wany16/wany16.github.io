@@ -10,14 +10,14 @@ redirect_from:
 Ying Wan (万颖) received his Bachelor's degree in Communication Engineering from Northwestern Polytechnical University in 2016 (Advisor: [Ding Wang](https://teacher.nwpu.edu.cn/wangding.html)),
 and his PhD degree in Computer Science from Tsinghua University in 2022 (Supervisor: [Bin Liu](https://www.cs.tsinghua.edu.cn/info/1126/3587.htm)).
 He conducted a three-month scientific research internship at the University of Victoria (UVic) with the funding of the China Scholarship Council (CSC) in 2015 (Supervisor: [Jianping Pan](https://www.uvic.ca/ecs/computerscience/people/faculty/profiles/pan-jianping.php), [Fei Tong](https://fei-tong.github.io/)). 
-He worked as an senior researcher at the Innovation Center, China Mobile (Suzhou) Software Technology from July 2022 to February 2025 (Supervisor: [Ling Qian](https://www.cnii.com.cn/gxxww/rmydb/202111/t20211110_321826.html), [Yu Jia](https://zhuanlan.zhihu.com/p/406240028)).
+He worked as an senior researcher at the Innovation Center, China Mobile (Suzhou) Software Technology from July 2022 to February 2025 (Manager: [Ling Qian](https://www.cnii.com.cn/gxxww/rmydb/202111/t20211110_321826.html), [Yu Jia](https://zhuanlan.zhihu.com/p/406240028)).
 Now he is an associate researcher in School of Cyber Science and Engineering, Southeast University.
 
 Research Interests
 ======
+Software Defined Networking (SDN), Programmable Dataplane, Data Center Network (DCN),
+In-band Network Telemetry (INT), and Hardware AI  
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 Getting started
 ======
