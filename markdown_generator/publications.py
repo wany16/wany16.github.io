@@ -64,6 +64,7 @@ def html_escape(text):
 # In[5]:
 
 import os
+myCnt= 0
 for row, item in publications.iterrows():
     
     md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
@@ -106,6 +107,8 @@ for row, item in publications.iterrows():
     # print("Writing file: " + md_filename)
        
     with open("../_publications/" + md_filename, 'w') as f:
+        myCnt += 1
+        print(str(myCnt) + " Writing file: ../_publications/" + md_filename)
         f.write(md)
 
 
