@@ -35,7 +35,7 @@ import re
 
 # In[3]:
 
-publications = pd.read_csv("publications.tsv", sep="\t", header=0)
+publications = pd.read_csv("publications.tsv", sep="\t", header=0, encoding="utf-8")
 print(publications.head())
 print(publications.columns)
 publications
