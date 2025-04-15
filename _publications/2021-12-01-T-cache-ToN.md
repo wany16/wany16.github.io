@@ -10,5 +10,3 @@ venue: 'IEEE/ACM Transactions on Networking (TON)'
 paperurl: 'http://wany16.github.io/files/T-cache_ToN.pdf'
 slidesurl: 'http://wany16.github.io/files/T-cache_ToN_Ppt.pdf'
 ---
-
-<a href='http://wany16.github.io/files/T-cache_ToN.pdf'>Download paper here</a>

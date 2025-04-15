@@ -87,9 +87,9 @@ for row, item in publications.iterrows():
     #     formatted_excerpt = re.sub(r'\b(Ying Wan|Wan Ying)\b', r'**\1**', formatted_excerpt)
     #     # md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
     #     md += "\nexcerpt: '" + formatted_excerpt + "'"
-    if len(str(item.level)) > 2:
+    if len(str(item.level)) > 4:
         md += "\nlevel: " + item.level
-    if len(str(item.author)) > 2:
+    if len(str(item.author)) > 4:
         md += "\nauthor: " + str(item.author) 
 
     md += "\ndate: " + str(item.pub_date) 
@@ -100,14 +100,16 @@ for row, item in publications.iterrows():
         md += "\npaperurl: '" + item.paper_url + "'"
     if len(str(item.slides_url)) > 5:
         md += "\nslidesurl: '" + item.slides_url + "'"
+    if len(str(item.code_url)) > 5:
+        md += "\ncodeurl: '" + item.code_url + "'"
     # md += "\ncitation: '" + html_escape(item.citation) + "'"
     
     md += "\n---"
     
     ## Markdown description for individual page
     
-    if len(str(item.paper_url)) > 5:
-        md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
+    # if len(str(item.paper_url)) > 5:
+    #     md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
         
     # if len(str(item.excerpt)) > 5:
     #     md += "\n" + html_escape(item.excerpt) + "\n"
