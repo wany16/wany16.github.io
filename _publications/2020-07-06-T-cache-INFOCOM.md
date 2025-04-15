@@ -8,5 +8,6 @@ author: <strong>Ying Wan</strong>, Haoyu Song, Yang Xu, Yilun Wang, Tian Pan, Ch
 date: 2020-07-06
 venue: 'IEEE International Conference on Computer Communications (INFOCOM)'
 paperurl: 'http://wany16.github.io/files/T-cache_INFOCOM.pdf'
+slidesurl: 'http://wany16.github.io/files/T-cache_INFOCOM_Ppt.pdf'
 codeurl: 'https://academicpages.github.io/publications/'
 ---
