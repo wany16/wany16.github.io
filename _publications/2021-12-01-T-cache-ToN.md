@@ -7,6 +7,8 @@ level: <strong>(CCF-A)</strong>
 author: <strong>Ying Wan</strong>, Haoyu Song, Yang Xu, Yilun Wang, Tian Pan, Chuwen Zhang, Yi Wang, Bin Liu.
 date: 2021-12-01
 venue: 'IEEE/ACM Transactions on Networking (TON)'
+paperurl: 'http://wany16.github.io/files/T-cache_ToN.pdf'
+slidesurl: 'http://wany16.github.io/files/T-cache_ToN_Ppt.pdf'
 ---
 
 <a href='http://wany16.github.io/files/T-cache_ToN.pdf'>Download paper here</a>
