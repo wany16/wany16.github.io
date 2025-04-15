@@ -82,11 +82,15 @@ for row, item in publications.iterrows():
     
     md += """\npermalink: /publication/""" + html_filename
     
-    if len(str(item.excerpt)) > 5:
-        formatted_excerpt = html_escape(item.excerpt)
-        formatted_excerpt = re.sub(r'\b(Ying Wan|Wan Ying)\b', r'**\1**', formatted_excerpt)
-        # md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
-        md += "\nexcerpt: '" + formatted_excerpt + "'"
+    # if len(str(item.excerpt)) > 5:
+    #     formatted_excerpt = html_escape(item.excerpt)
+    #     formatted_excerpt = re.sub(r'\b(Ying Wan|Wan Ying)\b', r'**\1**', formatted_excerpt)
+    #     # md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
+    #     md += "\nexcerpt: '" + formatted_excerpt + "'"
+    if len(str(item.level)) > 2:
+        md += "\nlevel: " + item.level
+    if len(str(item.author)) > 2:
+        md += "\nauthor: " + str(item.author) 
 
     md += "\ndate: " + str(item.pub_date) 
     
@@ -104,8 +108,8 @@ for row, item in publications.iterrows():
     if len(str(item.paper_url)) > 5:
         md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
         
-    if len(str(item.excerpt)) > 5:
-        md += "\n" + html_escape(item.excerpt) + "\n"
+    # if len(str(item.excerpt)) > 5:
+    #     md += "\n" + html_escape(item.excerpt) + "\n"
         
     # md += "\nRecommended citation: " + item.citation
     
