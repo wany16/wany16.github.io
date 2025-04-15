@@ -24,6 +24,7 @@
 # In[2]:
 
 import pandas as pd
+import re
 
 
 # ## Import TSV
@@ -82,7 +83,8 @@ for row, item in publications.iterrows():
     md += """\npermalink: /publication/""" + html_filename
     
     if len(str(item.excerpt)) > 5:
-        formatted_excerpt = html_escape(item.excerpt).replace("wan ying", "**wan ying**")
+        formatted_excerpt = html_escape(item.excerpt)
+        formatted_excerpt = re.sub(r'\b(Ying Wan|Wan Ying)\b', r'**\1**', formatted_excerpt)
         # md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
         md += "\nexcerpt: '" + formatted_excerpt + "'"
 
