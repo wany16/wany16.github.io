@@ -1,3 +1,3 @@
-pub_date	category	title	venue	url_slug	paper_url	slides_url
-2020-07-06	conferences	T-cache: Dependency-free Ternary Rule Cache for Policy-based Forwarding	IEEE International Conference on Computer Communications (INFOCOM)	T-cache-INFOCOM	http://wany16.github.io/files/T-cache_INFOCOM.pdf
-2021-12-01	journals	T-Cache: Efficient Policy-Based Forwarding Using Small TCAM	IEEE/ACM Transactions on Networking (TON)	T-cache-ToN	http://wany16.github.io/files/T-cache_ToN.pdf	http://wany16.github.io/files/T-cache_ToN_Ppt.pdf
+pub_date	category	title	venue	excerpt	url_slug	paper_url	slides_url
+2020-07-06	conferences	T-cache: Dependency-free Ternary Rule Cache for Policy-based Forwarding	IEEE International Conference on Computer Communications (INFOCOM)	Ying Wan, Haoyu Song, Yang Xu, Yilun Wang, Tian Pan, Chuwen Zhang, Bin Liu.	T-cache-INFOCOM	http://wany16.github.io/files/T-cache_INFOCOM.pdf
+2021-12-01	journals	T-Cache: Efficient Policy-Based Forwarding Using Small TCAM	IEEE/ACM Transactions on Networking (TON)	Ying Wan, Haoyu Song, Yang Xu, Yilun Wang, Tian Pan, Chuwen Zhang, Yi Wang, Bin Liu.	T-cache-ToN	http://wany16.github.io/files/T-cache_ToN.pdf	http://wany16.github.io/files/T-cache_ToN_Ppt.pdf
