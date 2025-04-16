@@ -59,6 +59,7 @@
 
 .archive__item-excerpt {
   margin-top: 0;
+  margin-bottom: 1px; /* 减少与下一个段落的间距 */
   font-size: $type-size-6;
 
   & + p {
