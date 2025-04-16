@@ -17,14 +17,16 @@ Education
 
 Work experience
 ======
-**1. 2024/03-Now**: Associate Researcher
-  * School of Cyber Science and Engineering, Southeast University
-  * Duties includes: Teaching and Researching
+* **2024/03~Now**
+  * Position: Associate Researcher
+  * Employer: School of Cyber Science and Engineering, Southeast University
+  * Responsibilities: Teaching and Researching
   * Supervisor: [Tao Huang](https://cyber.seu.edu.cn/2020/0817/c21840a342463/page.htm)
 
-**2. 2022/07-2025/02**: Senior Researcher
-  * Innovation Center, China Mobile (Suzhou) Software Technology
-  * Duties included: Researching and Engineering
+* **2022/07~2025/02**
+  * Position: Senior Researcher
+  * Employer: Innovation Center, China Mobile (Suzhou) Software Technology
+  * Responsibilities: Researching and Engineering
   * Manager: [Ling Qian](https://www.cnii.com.cn/gxxww/rmydb/202111/t20211110_321826.html), [Yu Jia](https://zhuanlan.zhihu.com/p/406240028)
   
 Publications
