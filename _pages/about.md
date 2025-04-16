@@ -11,7 +11,7 @@ Ying Wan (万颖) received his Bachelor's degree in Communication Engineering fr
 and his PhD degree in Computer Science from Tsinghua University in 2022 (Supervisor: [Bin Liu](https://www.cs.tsinghua.edu.cn/info/1126/3587.htm)).
 He conducted a three-month scientific research internship at the University of Victoria (UVic) with the funding of the China Scholarship Council (CSC) in 2015 (Supervisor: [Jianping Pan](https://www.uvic.ca/ecs/computerscience/people/faculty/profiles/pan-jianping.php), [Fei Tong](https://fei-tong.github.io/)). 
 He worked as an senior researcher at the Innovation Center, China Mobile (Suzhou) Software Technology from July 2022 to February 2025 (Manager: [Ling Qian](https://www.cnii.com.cn/gxxww/rmydb/202111/t20211110_321826.html), [Yu Jia](https://zhuanlan.zhihu.com/p/406240028)).
-Now he is an associate researcher in School of Cyber Science and Engineering, Southeast University.
+Now he is an associate researcher in School of Cyber Science and Engineering, Southeast Universit (Manager: [Tao Huang](https://cyber.seu.edu.cn/2020/0817/c21840a342463/page.htm)).
 
 Research Interests
 ======
