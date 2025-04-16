@@ -11,47 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2016/08-2022/07, Ph.D in Computer Science, Tsinghua University (Supervisor: [Bin Liu](https://www.cs.tsinghua.edu.cn/info/1126/3587.htm))
+* 2015/06-2015/09, Internship in Computer Science, University of Victoria (Supervisor: [Jianping Pan](https://www.uvic.ca/ecs/computerscience/people/faculty/profiles/pan-jianping.php), [Fei Tong](https://fei-tong.github.io/))
+* 2012/08-2016/07, B.S. in Communication Engineering, Northwestern Polytechnical University (Advisor: [Ding Wang](https://teacher.nwpu.edu.cn/wangding.html))
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024/03: Associate Researcher
+  * School of Cyber Science and Engineering, Southeast University
+  * Duties includes: Teaching and Researching
+  * Supervisor: Tao Huang
 
-* Fall 2015: Research Assistant
-  * GitHub University
+* 2022/07: Senior Researcher
+  * Innovation Center, China Mobile (Suzhou) Software Technology
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Manager: Manager: [Ling Qian](https://www.cnii.com.cn/gxxww/rmydb/202111/t20211110_321826.html), [Yu Jia](https://zhuanlan.zhihu.com/p/406240028)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -59,6 +45,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
