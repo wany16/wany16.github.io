@@ -23,8 +23,11 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /cv/
+
+  - title: "Group"
+    url: /group/
     
   # - title: "CV"
   #   url: /cv-json/
