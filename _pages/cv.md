@@ -18,7 +18,6 @@ Education
 Work experience
 ======
 * **2025/03~Now:** Assoc. Res. in School of Cyber Science and Engineering, Southeast University (Manager: [Tao Huang](https://cyber.seu.edu.cn/2020/0817/c21840a342463/page.htm))
-
 * **2022/07~2025/02:** Sr. Res. in Innovation Center, China Mobile (Suzhou) Software Technology (Manager: [Ling Qian](https://www.cnii.com.cn/gxxww/rmydb/202111/t20211110_321826.html))
 
 <!-- Work experience
