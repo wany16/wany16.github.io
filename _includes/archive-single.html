@@ -68,7 +68,7 @@
     {% if post.citation and post.paperurl and post.slidesurl %}
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.paperurl and post.slidesurl and post.codeurl %}
-    <p style="margin-top: 5px !important; margin-bottom: 5px !important;"><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.codeurl }}">Download Code</a></p>  
+    <p style="margin-top: 1px !important; margin-bottom: 15px !important;"><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.codeurl }}">Download Code</a></p>  
     {% elsif post.paperurl and post.slidesurl %}
     <p><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>    
     {% elsif post.paperurl and post.codeurl %}
