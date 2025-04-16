@@ -29,9 +29,9 @@ Work experience
   
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ol>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ol>
   
 <!-- Talks
 ======
@@ -41,9 +41,9 @@ Publications
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
+  <ol>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ol>
   
 <!-- Service and leadership
 ======
