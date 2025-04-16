@@ -25,7 +25,7 @@ Work experience
 * 2022/07-2025/02: Senior Researcher
   * Innovation Center, China Mobile (Suzhou) Software Technology
   * Duties included: Researching and Engineering
-  * Manager: Manager: [Ling Qian](https://www.cnii.com.cn/gxxww/rmydb/202111/t20211110_321826.html), [Yu Jia](https://zhuanlan.zhihu.com/p/406240028)
+  * Manager: [Ling Qian](https://www.cnii.com.cn/gxxww/rmydb/202111/t20211110_321826.html), [Yu Jia](https://zhuanlan.zhihu.com/p/406240028)
   
 Publications
 ======
