@@ -21,8 +21,7 @@ In-band Network Telemetry (INT), and Hardware AI Acceleration.
 Recruitment
 ======
 I am currently looking for strongly self-motivated undergraduate interns and master students to join my research group.
-Please contact me by email with your CV.
-<!-- For more details, please click the Recruitment button at the top right. -->
+Please contact me by email at [wy25@seu.edu.cn](mailto:wy25@seu.edu.cn) with your CV.
 
 Teaching
 ======
